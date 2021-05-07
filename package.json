@@ -1,0 +1,23 @@
+{
+  "name": "k4rcleaner",
+  "version": "1.0.0",
+  "description": "Deleting Entries for Fresh Setup",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GautamDange/K4RCleaner.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GautamDange/K4RCleaner/issues"
+  },
+  "homepage": "https://github.com/GautamDange/K4RCleaner#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "request": "^2.88.2"
+  }
+}
